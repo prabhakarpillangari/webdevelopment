@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #firstcolor{
+            color: blueviolet;
+        }
+        #secondcolor{
+            color: rgb(170, 107, 115);
+        }
+        #thirdcolor{
+            color: #ff9fff;
+        }
+    </style>
+</head>
+<body>
+    <h2>Lets discuss about colors</h2>
+    <ol>
+        <li><p id="firstcolor">the first type of color is giving the color name</p></li>
+        <li><p id="secondcolor">the second type we can just intialize using rgb</p></li>
+        <li><p id="thirdcolor">the third type is hexa decimal value</p></li>
+    </ol>
+    
+</body>
+</html>
